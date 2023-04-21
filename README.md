@@ -1,5 +1,5 @@
 # chatgpt-ui-webchat-wechat
-chatgpt 微信小程序，chatgpt  web端, 支持会员充值，支持分销系统 ，web端支持扫码关注微信公众号登录. 
+chatgpt 微信小程序，chatgpt  web端, 支持会员充值，支持分销系统 ，web端支持扫码关注微信公众号登录. 支持h5 ，chatgpt h5有完整的小程序功能
 ![IMG_8613](https://user-images.githubusercontent.com/48946411/229295578-8809864a-7167-4ba6-9608-d095f3be52b2.jpg)
 ![IMG_8612](https://user-images.githubusercontent.com/48946411/229295579-b5e53dab-58a0-4cce-b9bb-987ed70a24fe.PNG)
 ![IMG_8611](https://user-images.githubusercontent.com/48946411/229295581-5497561e-9cc1-4f09-bd54-416a9d2a1693.PNG)
