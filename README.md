@@ -10,7 +10,11 @@ chatgpt 微信小程序，chatgpt  web端, 支持会员充值，支持分销系�
 ![IMG_8611](https://user-images.githubusercontent.com/48946411/229295581-5497561e-9cc1-4f09-bd54-416a9d2a1693.PNG)
 ![IMG_8610](https://user-images.githubusercontent.com/48946411/229295583-87e56e53-a866-49b6-8a0c-a4e73250d818.PNG)
 ![IMG_8609](https://user-images.githubusercontent.com/48946411/229295585-22534b43-5887-45aa-8f74-66610c6d2362.PNG)
-
+![IMG_9164.PNG](https://github.com/songkea/chatgpt-ui-webchat-wechat/blob/main/IMG_9164.PNG)
+![IMG_9167.PNG](https://github.com/songkea/chatgpt-ui-webchat-wechat/blob/main/IMG_9167.PNG)
+![IMG_9168.PNG](https://github.com/songkea/chatgpt-ui-webchat-wechat/blob/main/IMG_9168.PNG)
+![IMG_9166.jpg](https://github.com/songkea/chatgpt-ui-webchat-wechat/blob/main/IMG_9164.jpg)
+![IMG_9169.jpg](https://github.com/songkea/chatgpt-ui-webchat-wechat/blob/main/IMG_9169.jpg)
 
 
 
