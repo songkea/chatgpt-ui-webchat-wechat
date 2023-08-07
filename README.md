@@ -5,6 +5,7 @@ chatgpt小程序
 chatgpt h5
 chatgpt 微信小程序，chatgpt  web端, 支持会员充值，支持分销系统 ，支持卡密，web端支持扫码关注微信公众号登录. 支持h5 ，chatgpt h5有完整的小程序功能
 想要拥有同样的小程序的可以联系我。   本套程序采用html+js+css    php后端  thinkphp 框架开发而成，把文字看完，别在问我什么语言开发的浪费时间。 可以二次开发。 
+有想要的功能需要排期，咱不接定制，真需要定制价格高昂. 
 
 ![IMG_8613](https://user-images.githubusercontent.com/48946411/229295578-8809864a-7167-4ba6-9608-d095f3be52b2.jpg)
 ![IMG_8612](https://user-images.githubusercontent.com/48946411/229295579-b5e53dab-58a0-4cce-b9bb-987ed70a24fe.PNG)
@@ -28,5 +29,6 @@ saas版本：无需服务器，也不需要备案IP。你需要有：微信公�
 
 需要此小程序的可以联系我. 
 加好友声明(github）来源否则拒绝.  预算低于5000软妹币的不要加，你玩不了.
+可开发票.
 ![IMG_8614](https://user-images.githubusercontent.com/48946411/229295696-2727138f-d07f-4386-981d-e7b68eb30a17.jpg)
 
